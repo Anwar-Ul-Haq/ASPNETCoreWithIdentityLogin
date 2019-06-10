@@ -23,16 +23,22 @@ namespace Tutorial.AspNetSecurity.RouxAcademy.Controllers
 
         // GET: /<controller>/
         public IActionResult Index()
-        {  
-            return View(new List<CourseGrade>());
+        {
+            var username = User.Identity.Name;
+
+            var grades = _db.Grades.Where(x => x.StudentUsername == username).ToList();
+
+            return View(grades);
         }
         [HttpGet]
+        [Authorize(Policy = "FacultyOnly")]
         public IActionResult AddGrade()
         {
             return View();
         }
 
         [HttpPost]
+        [Authorize(Policy = "FacultyOnly")]
         public IActionResult AddGrade(CourseGrade model)
         {
             if (!ModelState.IsValid)
