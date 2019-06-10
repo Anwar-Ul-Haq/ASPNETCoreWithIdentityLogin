@@ -1,0 +1,49 @@
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.deps.json
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.json
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.dev.json
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csprojResolveAssemblyReference.cache
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfo.cs
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+c:\users\janan siam\documents\visual studio 2017\Projects\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.deps.json
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.json
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.dev.json
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csprojResolveAssemblyReference.cache
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfo.cs
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+C:\SourceCode\Tutorial\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.deps.json
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.json
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.dev.json
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csprojResolveAssemblyReference.cache
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfo.cs
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+C:\SourceCode\Tutorial\Exercise Files\Ch01\01_05\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.deps.json
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.json
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.dev.json
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csprojAssemblyReference.cache
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csproj.CoreCompileInputs.cache
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfoInputs.cache
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfo.cs
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+C:\Ex_Files_ASP_NET_Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.deps.json
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.json
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.dev.json
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csprojAssemblyReference.cache
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csproj.CoreCompileInputs.cache
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfoInputs.cache
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfo.cs
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
+D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
