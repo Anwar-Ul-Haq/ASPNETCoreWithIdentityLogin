@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial.AspNetSecurity.RouxAcademy", "Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy.csproj", "{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenService", "TokenService\TokenService.csproj", "{0AF21F8A-A095-47F4-AD5D-E6F88C9D08D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial.AspNetSecurity.WebClient", "..\..\..\Ch02\02_07_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.WebClient\Tutorial.AspNetSecurity.WebClient.csproj", "{8CF73E0E-4B0F-4E5D-8EDB-E5B852F8D535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +19,19 @@ Global
 		{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF21F8A-A095-47F4-AD5D-E6F88C9D08D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF21F8A-A095-47F4-AD5D-E6F88C9D08D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF21F8A-A095-47F4-AD5D-E6F88C9D08D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF21F8A-A095-47F4-AD5D-E6F88C9D08D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF73E0E-4B0F-4E5D-8EDB-E5B852F8D535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF73E0E-4B0F-4E5D-8EDB-E5B852F8D535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF73E0E-4B0F-4E5D-8EDB-E5B852F8D535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF73E0E-4B0F-4E5D-8EDB-E5B852F8D535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9A32991-07FC-492E-98E2-F1E5AC5841B6}
 	EndGlobalSection
 EndGlobal

@@ -41,7 +41,6 @@ D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecuri
 D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.runtimeconfig.dev.json
 D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.dll
 D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\bin\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.pdb
-D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csprojAssemblyReference.cache
 D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.csproj.CoreCompileInputs.cache
 D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfoInputs.cache
 D:\L\ASP.NET Core Security\Exercise Files\Ch01\01_05_Begin\Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy\obj\Debug\netcoreapp1.1\Tutorial.AspNetSecurity.RouxAcademy.AssemblyInfo.cs
